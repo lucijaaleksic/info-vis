@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.897, 52.377]
+      },
+      "properties": {
+        "name": "Amsterdam",
+        "color": "#FF0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.727, 37.983]
+      },
+      "properties": {
+        "name": "Athens",
+        "color": "#00FF00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.173, 41.385]
+      },
+      "properties": {
+        "name": "Barcelona",
+        "color": "#0000FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.404, 52.524]
+      },
+      "properties": {
+        "name": "Berlin",
+        "color": "#FF00FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.040, 47.498]
+      },
+      "properties": {
+        "name": "Budapest",
+        "color": "#FFFF00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.139, 38.722]
+      },
+      "properties": {
+        "name": "Lisbon",
+        "color": "#00FFFF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.349, 48.856]
+      },
+      "properties": {
+        "name": "Paris",
+        "color": "#FF9900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.496, 41.902]
+      },
+      "properties": {
+        "name": "Rome",
+        "color": "#9900FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.373, 48.209]
+      },
+      "properties": {
+        "name": "Vienna",
+        "color": "#00FF99"
+      }
+    }
+  ],
+  "bbox": [-25, 35, 40, 70]
+}
